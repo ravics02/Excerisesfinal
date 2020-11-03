@@ -13,7 +13,7 @@ While ($i<10){
 
     //echo"<p>This is the".$i."th line</p>>";
 ?>
-<P> This is the th line</P>
+<P> This is the <?php echo $i;?></P>
 <?php
 $i++;
 
@@ -21,6 +21,6 @@ $i++;
 }
 
 ?>
-?/>
+
 </body>
 </html>
