@@ -11,8 +11,10 @@
 $i = 0;
 While ($i<10){
 
-    echo"<p>This is the".$i."th line</p>>";
-
+    //echo"<p>This is the".$i."th line</p>>";
+?>
+<P> This is the th line</P>
+<?php
 $i++;
 
 
