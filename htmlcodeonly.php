@@ -9,7 +9,7 @@
 <p> I will put my paragraph below:</p>
 <?PHP
 $i = 0;
-While ($1<10){
+While ($i<10){
 
     echo"<p>This is the".$i."th line</p>>";
 
