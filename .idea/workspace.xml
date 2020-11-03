@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4aceb26-9adf-4be1-a71f-3875423e40b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/htmlcodeonly.php" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcodeonly.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPANDDATABASE/firstDBConnection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,7 @@
       <workItem from="1604259591627" duration="2749000" />
       <workItem from="1604347536706" duration="3301000" />
       <workItem from="1604351125572" duration="3407000" />
-      <workItem from="1604432133158" duration="2347000" />
+      <workItem from="1604432133158" duration="4855000" />
     </task>
     <servers />
   </component>
@@ -112,9 +113,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="455" y="64" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1604260079963" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1604432228205">
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1604436980664">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1604432228205" />
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1604436980664" />
   </component>
 </project>
