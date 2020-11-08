@@ -33,12 +33,17 @@ $result = mysqli_query($conn,$sql);
 // show my result
 
 if ($result->num_rows == 1) {
-     echo "You have signed in";
-    while ($row = $result->fetch_assoc()){
+    echo "You have signed in";
+    while ($row = $result->fetch_assoc()) {
         echo $row ["firstname"];
 
 
-}
+    }
+
+
+
+
+
 
 
 

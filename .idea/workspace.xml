@@ -20,9 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4aceb26-9adf-4be1-a71f-3875423e40b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PHPANDDATABASE/loginform.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPANDDATABASE/recieveform.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/page 1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/page 2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/page 3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/page 4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/page 5.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPANDDATABASE/recieveform.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPANDDATABASE/recieveform.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +81,9 @@
       <workItem from="1604259591627" duration="2749000" />
       <workItem from="1604347536706" duration="3301000" />
       <workItem from="1604351125572" duration="3407000" />
-      <workItem from="1604432133158" duration="14185000" />
+      <workItem from="1604432133158" duration="16388000" />
+      <workItem from="1604713036709" duration="967000" />
+      <workItem from="1604864210355" duration="1959000" />
     </task>
     <servers />
   </component>
@@ -93,6 +100,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="393" y="165" key="#Notifications" timestamp="1604350084640">
@@ -119,9 +127,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="455" y="64" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1604260079963" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1604523440396">
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1604865519634">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1604523440396" />
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1604865519634" />
   </component>
 </project>
