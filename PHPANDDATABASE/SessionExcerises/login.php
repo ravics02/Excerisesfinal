@@ -6,10 +6,10 @@ echo "Username:" . $username;
 echo "Password:" . $password;
 
 //create a database connection
-$server = "klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-$dbusername = "t8jnow42fmp1smpt";
-$dbpassword = "fdavedw769oxw5pd";
-$dbname = "k2nfay1osz1i59kc";
+$server = "lolyz0ok3stvj6f0.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+$dbusername = " zwtccshi5x8h5pvx";
+$dbpassword = " j6idgpckpu4s42xh";
+$dbname = " j70b2olzmcxne6ap";
 
 $conn = new mysqli($server, $dbusername, $dbpassword, $dbname);
 
