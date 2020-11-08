@@ -3,5 +3,5 @@
 //start a session
 @session_start();
 //get session value
-$color = $_SESSION ["color"];
-echo "color:".$color;
+$message = $_SESSION ["message"];
+echo "message:".$message;
