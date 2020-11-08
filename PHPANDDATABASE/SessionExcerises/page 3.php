@@ -5,3 +5,4 @@
 //get session value
 $message = $_SESSION ["message"];
 echo "message:".$message;
+?>;
