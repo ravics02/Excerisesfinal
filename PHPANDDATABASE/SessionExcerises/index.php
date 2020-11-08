@@ -10,11 +10,12 @@
 //$_SESSION ["address"] = "139 Carrington road";
 
 
-if (isset($_POST["Message"])) {
+if (isset($_POST["message"])) {
     echo "<p>I have a post message in this page</p>";
+    $_SESSION["message"]= $_POST["message"];
 }else{
     echo "<p>Please post a message to me </p>";
-$_SESSION["message"]= $_POST["message"];
+
 
 }
 
