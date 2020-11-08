@@ -7,6 +7,14 @@ $_SESSION ["password"] = "Song";
 $_SESSION ["color"] ="red";
 $_SESSION ["address"] = "139 Carrington road";
 
+if (isset($_POST["Message"])) {
+    echo "<p>I have a post message in this page</p>";
+}else{
+    echo "<p>Please post a message to me </p>";
+
+
+}
+
 ?>
 
 <html>
@@ -30,6 +38,13 @@ $_SESSION ["address"] = "139 Carrington road";
 
 </ul>
 
+<form action="<?php $_SERVER["PHP_SELF"]; ?> "METHOD="post">
+    <INPUT name="message"type="text" placeholder="message here">
+    <input name="submit"value="post">
+
+
+
+</form>
 
 </body>
 </html>
