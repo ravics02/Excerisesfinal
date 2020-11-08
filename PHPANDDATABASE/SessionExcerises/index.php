@@ -40,7 +40,7 @@ if (isset($_POST["Message"])) {
 
 <form action="<?php $_SERVER["PHP_SELF"]; ?> "METHOD="post">
     <INPUT name="message"type="text" placeholder="message here">
-    <input name="submit"value="post">
+    <input name="submit"type="button" value="post">
 
 
 
