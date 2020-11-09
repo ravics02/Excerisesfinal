@@ -7,7 +7,7 @@
 <body>
 
 <div id="header">
-    <?php include "page 1.php";?>
+    <?php include "menu.php";?>
 
 </div>
 
