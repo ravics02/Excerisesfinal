@@ -20,13 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4aceb26-9adf-4be1-a71f-3875423e40b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/loginform.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/page 1.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/page 1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/page 2.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/page 2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/page 3.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/page 3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/page 4.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises/page 4.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +77,7 @@
       <workItem from="1604351125572" duration="3407000" />
       <workItem from="1604432133158" duration="16388000" />
       <workItem from="1604713036709" duration="967000" />
-      <workItem from="1604864210355" duration="7453000" />
+      <workItem from="1604864210355" duration="9114000" />
     </task>
     <servers />
   </component>
