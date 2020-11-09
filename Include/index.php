@@ -11,6 +11,9 @@
     <?php include "menu.php";?>
 
     <?php include "headerimage.php"; ?>
+
+    <?php include "page 3.php"; ?>
+
 </div>
 
 

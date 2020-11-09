@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4aceb26-9adf-4be1-a71f-3875423e40b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Include/headerimage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Include/images/imageheader.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Include/page 2.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/page 2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Include/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Include/page 2.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +60,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/PHPANDDATABASE/SessionExcerises" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Include/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -68,6 +71,7 @@
       <recent name="C:\Users\acer\Documents\Excerises\PHPANDDATABASE" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\Documents\Excerises\Include\images" />
       <recent name="C:\Users\acer\Documents\Excerises\PHPANDDATABASE\SessionExcerises" />
       <recent name="C:\Users\acer\Documents\Excerises\PHPANDDATABASE" />
     </key>
@@ -85,7 +89,7 @@
       <workItem from="1604351125572" duration="3407000" />
       <workItem from="1604432133158" duration="16388000" />
       <workItem from="1604713036709" duration="967000" />
-      <workItem from="1604864210355" duration="13571000" />
+      <workItem from="1604864210355" duration="14225000" />
     </task>
     <servers />
   </component>
