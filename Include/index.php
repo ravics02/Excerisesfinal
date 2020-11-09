@@ -8,7 +8,7 @@
 
 <div id="header">
     <?php include "menu.php";?>
-
+    <link rel="stylesheet"href="css/style.css">
 </div>
 
 <div id="main">Content</div>
