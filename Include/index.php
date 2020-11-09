@@ -6,8 +6,11 @@
 </head>
 <body>
 
-<div id="header"></div>
-<?php include "page 1.php";?>,
+<div id="header">
+    <?php include "page 1.php";?>
+
+</div>
+
 <div id="main">Content</div>
 <div id="footer"> Contact Information</div>
 
