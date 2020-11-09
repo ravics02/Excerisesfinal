@@ -7,6 +7,7 @@
 <body>
 
 <div id="header"></div>
+<?php include "page 1.php";?>,
 <div id="main">Content</div>
 <div id="footer"> Contact Information</div>
 
