@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4aceb26-9adf-4be1-a71f-3875423e40b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Include/headerimage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Include/images/imageheader.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Include/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Include/page 2.php" beforeDir="false" />
-    </list>
+    <list default="true" id="e4aceb26-9adf-4be1-a71f-3875423e40b7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +83,7 @@
       <workItem from="1604351125572" duration="3407000" />
       <workItem from="1604432133158" duration="16388000" />
       <workItem from="1604713036709" duration="967000" />
-      <workItem from="1604864210355" duration="14225000" />
+      <workItem from="1604864210355" duration="16645000" />
     </task>
     <servers />
   </component>
@@ -133,9 +127,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="455" y="64" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1604260079963" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1604951005463">
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1604955697101">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1604951005463" />
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1604955697101" />
   </component>
 </project>
