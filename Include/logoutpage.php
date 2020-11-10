@@ -7,10 +7,7 @@
 //kill all session
 @session_destroy();
 
+header("location: index.php");
 ?>
 
-<script>
 
-    window.history.back();
-
-</script>
