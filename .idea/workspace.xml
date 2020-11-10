@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4aceb26-9adf-4be1-a71f-3875423e40b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/staticwebsite/website/product.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Include/logoutpage.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/logoutpage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite/website/food.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticwebsite/website/food.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +56,8 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Include/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/staticwebsite" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -68,6 +68,7 @@
       <recent name="C:\Users\acer\Documents\Excerises\PHPANDDATABASE" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\Documents\Excerises\staticwebsite" />
       <recent name="C:\Users\acer\Documents\Excerises\Include\images" />
       <recent name="C:\Users\acer\Documents\Excerises\PHPANDDATABASE\SessionExcerises" />
       <recent name="C:\Users\acer\Documents\Excerises\PHPANDDATABASE" />
@@ -86,7 +87,7 @@
       <workItem from="1604351125572" duration="3407000" />
       <workItem from="1604432133158" duration="16388000" />
       <workItem from="1604713036709" duration="967000" />
-      <workItem from="1604864210355" duration="20411000" />
+      <workItem from="1604864210355" duration="23320000" />
     </task>
     <servers />
   </component>
@@ -130,9 +131,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="455" y="64" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1604260079963" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1604955697101">
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1605043423275">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1604955697101" />
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1605043423275" />
   </component>
 </project>
