@@ -7,3 +7,10 @@
 //kill all session
 @session_destroy();
 
+?>
+
+<script>
+
+    window.history.back();
+
+</script>
