@@ -12,7 +12,7 @@
 
     <?php include "headerimage.php"; ?>
 
-    <?php include "page 3.php"; ?>
+    <?php include "login2.php"; ?>
 
 </div>
 

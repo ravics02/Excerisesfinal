@@ -29,7 +29,9 @@ if (isset($_POST["username"]) && isset($_POST["password"])) {
         echo "you have login";
         while ($row = $result->fetch_assoc()) {
             echo $row["firstname"];
+            //start session
             @session_start();
+            $_SESSION["userID"]= $row["id"];
             $_SESSION["firstname"] = $row["firstname"];
         }
     } else {
@@ -37,6 +39,11 @@ if (isset($_POST["username"]) && isset($_POST["password"])) {
 
     }
     }
+?>
+<?php
+if (!isset($_SESSION["UserID"])){
+
+}
 ?>
 
 <form action="<?php $_SERVER["PHP_SELF"]; ?> " METHOD="post">
@@ -46,3 +53,16 @@ if (isset($_POST["username"]) && isset($_POST["password"])) {
 
 </form>
 
+<?php
+
+} else{
+
+    ?>
+    <a href="logout.php">Logout"</a>
+
+    <?php
+
+}
+
+
+?>
