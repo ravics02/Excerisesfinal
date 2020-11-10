@@ -43,7 +43,6 @@ if (isset($_POST["username"]) && isset($_POST["password"])) {
 <?php
 if (!isset($_SESSION["UserID"])){
 
-}
 ?>
 
 <form action="<?php $_SERVER["PHP_SELF"]; ?> " METHOD="post">
