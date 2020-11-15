@@ -2,7 +2,7 @@
 <ul>
 
 <li><a href="index.php"> Home</a> </li>
-    <?php include "category.php"
+    <?php include "category.php"; ?>
 
 
 
