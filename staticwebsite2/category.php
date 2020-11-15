@@ -24,7 +24,11 @@ if ($conn-> error) {
 //4. show result
 
     while ($row = $result->fetch_assoc()) {
-        echo $row["id"] . " " . $row["name"];
+        ?>
+<li><a href""><?php echo $row["name"]; ?></a></li>
+<?php
+
+
 
     }
 
