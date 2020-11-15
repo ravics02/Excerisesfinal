@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel = "stylesheet" type = "text/css" href = "css/style.css" >
+    <script src="js/script.js"></script>
+
+</head>
+<body>
+
+<div id = "header">
+    <img src = "images/dog1_1.jpg">
+    <div id="logo"><span id = "logoText">Pet Food Shop</span></div>
+</div>
+<div id = "nav">
+    <?php include "menu.php"; ?>
+
+</div>
+<div id = "Main">
+    <table id = "maintable">
+        <tr>
+            <td id="leftside">
+                <div id ="sideAdv">
+                    <img src = "images/dogup.jpg" id="sideImage">
+                    <p id = "text1">Pet Food Shop</p>
+                    <p id = "text2">HTCS 5606</p>
+                </div>
+            </td>
+            <td id="middlecontent">
+
+                <div class="product">
+                    <img src="images/dogpro1.jpg">
+                    <p>$3.20 ea</p>
+                    <p>
+                        qty:<input class="qty" id="primalqty" type="number">
+                        <button class = "addBut" id="add primal" onclick="addToCart(this)">Add to Cart</button>
+                    </p>
+                </div>
+                <div class="product">
+                    <img src="images/dogpro2.jpg">
+                    <p>$2.90 ea</p>
+                    <p>qty:<input class="qty" id="kittenQty" type="number">
+                        <button class = "addBut" id="addKitten" onclick="addToCart(this)">Add to Cart</button>
+                    </p>
+                </div>
+                <div class="product">
+                    <img src="images/dogpro3.jpg">
+                    <p>$9.00 ea</p>
+                    <p>qty:<input class="qty" id="spreadQty" type="number">
+                        <button class = "addBut" id="addSpread" onclick="addToCart(this)">Add to Cart</button>
+                    </p>
+                </div>
+
+            </td>
+            <td id="rightside">
+                <p>Cart:</p>
+                <div id="cartDiv"></div>
+                <button id="showInvoiceBut" onclick="invoice()">Invoice</button>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<!-- The Voice Page -->
+<div id="voicePage" class="voice">
+
+    <!-- Modal content -->
+    <div id="voice-content">
+        <span class="close">&times;</span>
+        <p>Please check your invoice</p>
+    </div>
+
+</div>
+//Food Shop. (n.d.). Retrieved October 23, 2020, from https://moodle.unitec.ac.nz/mod/folder/view.php?id=515159
+
+
+</body>
+</html>
