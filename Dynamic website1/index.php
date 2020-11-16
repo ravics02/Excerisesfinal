@@ -15,6 +15,9 @@
 </div>
 <div id = "nav">
     <?php include "menu.php"; ?>
+    <h3>Product</h3>
+    <?php include "product.php"?>
+
 
 </div>
 <div id = "Main">

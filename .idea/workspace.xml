@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4aceb26-9adf-4be1-a71f-3875423e40b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/staticwebsite2/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticwebsite2/registerform.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic website1/product.php" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic website1/product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic website1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic website1/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +38,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="composer.json" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -89,7 +91,8 @@
       <workItem from="1604432133158" duration="16388000" />
       <workItem from="1604713036709" duration="967000" />
       <workItem from="1604864210355" duration="24974000" />
-      <workItem from="1605123664273" duration="16900000" />
+      <workItem from="1605123664273" duration="18684000" />
+      <workItem from="1605555293723" duration="1679000" />
     </task>
     <servers />
   </component>
