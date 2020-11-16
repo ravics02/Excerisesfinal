@@ -1,8 +1,8 @@
 <?php
-$firstname=$_POST["firstname"];
-$lastname=$_POST["lastname"];
-$Username=$_POST["username"];
-$password=$_POST["password"];
+$firstname=$_POST["Firstname"];
+$lastname=$_POST["Lastname"];
+$Username=$_POST["Username"];
+$password=$_POST["Password"];
 $address= $_POST["address"];
 $phone=$_POST["phone"];
 
@@ -17,7 +17,7 @@ $conn = new mysqli($server,$dbusername,$dbpassword,$dbname);
 // create a query
 
 $sql ="INSERT INTO `users`(`id`, `firstname`, `lastname`, `username`, `password`, `address`, `phonenumber`) 
-VALUES (null ,'$firstname','$lastname','$Username','$password',$address,'$phone')";
+VALUES (null,'$firstname','$lastname','$Username','$password','$address','$phone')";
 
 // run the query
 
