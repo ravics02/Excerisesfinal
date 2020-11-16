@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4aceb26-9adf-4be1-a71f-3875423e40b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/staticwebsite2/register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticwebsite2/registerform.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic website1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic website1/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,15 +62,16 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\Documents\Excerises\staticwebsite2\website" />
+      <recent name="C:\Users\acer\Documents\Excerises" />
+      <recent name="C:\Users\acer\Documents\Excerises\PHPANDDATABASE" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\acer\Documents\Excerises\Dynamic website1" />
       <recent name="C:\Users\acer\Documents\Excerises\staticwebsite" />
       <recent name="C:\Users\acer\Documents\Excerises\Include\images" />
       <recent name="C:\Users\acer\Documents\Excerises\PHPANDDATABASE\SessionExcerises" />
-      <recent name="C:\Users\acer\Documents\Excerises\PHPANDDATABASE" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\acer\Documents\Excerises" />
       <recent name="C:\Users\acer\Documents\Excerises\PHPANDDATABASE" />
     </key>
   </component>
@@ -92,7 +90,7 @@
       <workItem from="1604713036709" duration="967000" />
       <workItem from="1604864210355" duration="24974000" />
       <workItem from="1605123664273" duration="18684000" />
-      <workItem from="1605555293723" duration="2781000" />
+      <workItem from="1605555293723" duration="3471000" />
     </task>
     <servers />
   </component>
