@@ -20,6 +20,15 @@ $result = mysqli_query($conn,$sql);
 while ($row = $result->fetch_assoc()) {
     ?>
 
+    <form action="<?php $_SERVER["PHP_SELF"]; ?> " METHOD="post">
+        <input name="username" type="text" placeholder="username">
+        <input name="password" type="text" placeholder="password">
+        <input type="submit" value="post">
+
+    </form>
+
+
+
 
 <div>
 <p><?php echo $row["name"]; ?></p>
