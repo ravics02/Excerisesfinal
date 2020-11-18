@@ -18,11 +18,11 @@
 </div>
 <div id = "nav">
   <ul>
-    <li><a href="dog.html" >Dog Product</a></li>
-    <li><a href="food.html">Cat Product</a></li>
-    <li><a href="milk.html" >Grooming Product</a></li>
+    <li><a href="dog.php" >Dog Product</a></li>
+    <li><a href="food.php">Cat Product</a></li>
+    <li><a href="milk.php" >Grooming Product</a></li>
     <li><a href="aboutus.php" class="active">About Us</a></li>
-    <li><a href="registerationform.html"> Register Now </a></li>
+    <li><a href="registerationform.php"> Register Now </a></li>
     <li>
       <!--  The login input boxes       -->
       <form action="login3.php" method="post">
