@@ -8,7 +8,7 @@
 <body>
 
 <h3> Please enter your details below for registeration</h3>
-<form method="post" action="login3.php">
+<form method="post" action="recieveform.php">
     <input name="firstname" type="text" placeholder="First Name">
 
     <input name="lastname" type="text" placeholder="Last Name">
