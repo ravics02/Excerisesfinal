@@ -25,9 +25,8 @@
     <li><a href="registerationform.html"> Register Now </a></li>
     <li>
       <!--  The login input boxes       -->
-      <form>
+      <form action="login3.php" method="post">
 
-        <action="login3.php" method="post"></action>
         <label>
           <input name="username" type="text" placeholder="Username">
         </label>
