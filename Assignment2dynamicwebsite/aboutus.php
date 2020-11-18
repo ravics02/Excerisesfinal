@@ -21,7 +21,7 @@
     <li><a href="dog.html" >Dog Product</a></li>
     <li><a href="food.html">Cat Product</a></li>
     <li><a href="milk.html" >Grooming Product</a></li>
-    <li><a href="aboutus.html" class="active">About Us</a></li>
+    <li><a href="aboutus.php" class="active">About Us</a></li>
     <li><a href="registerationform.html"> Register Now </a></li>
     <li>
       <!--  The login input boxes       -->
