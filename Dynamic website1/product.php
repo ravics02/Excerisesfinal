@@ -38,7 +38,7 @@ while ($row = $result->fetch_assoc()) {
 
     <input name="ProductID" value="<?php echo $row["id"]; ?>" type="hidden">
 
-    <input name="qty" type="number" placeholder="QTY">
+
 
 </div>
 

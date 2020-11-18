@@ -20,8 +20,89 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4aceb26-9adf-4be1-a71f-3875423e40b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/aboutus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/dog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/food.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/Dog 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/cat1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/cat2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/cat3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/cat5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/cat6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/dog1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/dog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/dog_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/dogpro1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/dogpro2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/dogpro3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/dogup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/gp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/gp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/gp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/gp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/gph1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/gph2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/images/grooming1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/js/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/js/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/js/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/login3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/milk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/recievedynamic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/registerationform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vieworder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Excerises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Excerises.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dynamic website1/product.php" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic website1/product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/.idea.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/.idea/website.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/Assignment 1 task 1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/Assignment 1 task 1.html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/aboutus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/aboutus.html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/category.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/food.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/food.html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/Dog 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/cat1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/cat2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/cat3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/cat5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/cat6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/dog1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/dog2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/dog_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/dogpro1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/dogpro2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/dogpro3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/dogup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/gp1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/gp2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/gp3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/gp4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/gph1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/gph2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/images/grooming1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/index.html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/js/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/js/.idea/js.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/js/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/js/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/milk.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/milk.html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticwebsite2/website/registerform.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,23 +137,23 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dynamic website1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assignment2dynamicwebsite" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\acer\Documents\Excerises\staticwebsite2\website" />
-      <recent name="C:\Users\acer\Documents\Excerises" />
-      <recent name="C:\Users\acer\Documents\Excerises\PHPANDDATABASE" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\Documents\Excerises\Assignment2dynamicwebsite" />
       <recent name="C:\Users\acer\Documents\Excerises\Dynamic website1" />
       <recent name="C:\Users\acer\Documents\Excerises\staticwebsite" />
       <recent name="C:\Users\acer\Documents\Excerises\Include\images" />
       <recent name="C:\Users\acer\Documents\Excerises\PHPANDDATABASE\SessionExcerises" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\Documents\Excerises\staticwebsite2\website" />
+      <recent name="C:\Users\acer\Documents\Excerises" />
       <recent name="C:\Users\acer\Documents\Excerises\PHPANDDATABASE" />
     </key>
   </component>
@@ -91,7 +172,9 @@
       <workItem from="1604713036709" duration="967000" />
       <workItem from="1604864210355" duration="24974000" />
       <workItem from="1605123664273" duration="18684000" />
-      <workItem from="1605555293723" duration="4814000" />
+      <workItem from="1605555293723" duration="8473000" />
+      <workItem from="1605641688605" duration="424000" />
+      <workItem from="1605642457302" duration="23962000" />
     </task>
     <servers />
   </component>
@@ -119,10 +202,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="395" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1604349469023" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1605470540406">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1605642824722">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605470540406" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605642824722" />
     <state x="520" y="239" key="Github.ShareDialog" timestamp="1604351166481">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -135,13 +218,28 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="455" y="64" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1604260079963" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1605469619396">
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1605676185105">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1605469619396" />
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1605676185105" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1605129714549">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1605129714549" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1605645498448">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1605645498448" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vieworder.php</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

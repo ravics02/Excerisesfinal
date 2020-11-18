@@ -2,22 +2,47 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <!-- Don't forget your Title here -->
+  <!--  Title here -->
   <title>About</title>
   <link rel = "stylesheet" type = "text/css" href = "css/style.css" >
   <script src="js/script.js"></script>
 </head>
-<body onload="moveAd(), moveText(), invoice()">
+<body>
+
+
+
+
 <div id = "header">
   <img src = "images/dog2.jpg" alt="">
   <div id="logo"><span id = "logoText">Pet Food Shop</span></div>
 </div>
 <div id = "nav">
   <ul>
-    <li><a href="index.php" >Dog Product</a></li>
+    <li><a href="dog.html" >Dog Product</a></li>
     <li><a href="food.html">Cat Product</a></li>
     <li><a href="milk.html" >Grooming Product</a></li>
     <li><a href="aboutus.html" class="active">About Us</a></li>
+    <li><a href="registerationform.html"> Register Now </a></li>
+    <li>
+      <!--  The login input boxes       -->
+      <form>
+
+        <action="login.php" method="post"></action>
+        <label>
+          <input name="username" type="text" placeholder="Username">
+        </label>
+        <label>
+          <input name="password" type="password" placeholder="Password">
+        </label>
+        <input type="button" value="Login">
+      </form>
+
+
+
+
+
+
+    </li>
   </ul>
 </div>
 <div id = "Main">
@@ -57,7 +82,7 @@
 
 </div>
 
-//Food Shop. (n.d.). Retrieved October 23, 2020, from https://moodle.unitec.ac.nz/mod/folder/view.php?id=515159
+<!-- Food Shop. (n.d.). Retrieved October 23, 2020, from https://moodle.unitec.ac.nz/mod/folder/view.php?id=515159<!-->
 
 </body>
 </html>
