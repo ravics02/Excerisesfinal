@@ -20,8 +20,10 @@ if (isset($_POST["username"]) && isset($_POST["password"])) {
     }
 
 //create a query
-    $sql = " SELECT * FROM `users`
-where username = '" . $username . "' and password = '" . $password . "'";
+    $sql = "select * from users 
+            where username = '$username' and 
+            password = '$password'";
+
 
     echo
 //run my query
