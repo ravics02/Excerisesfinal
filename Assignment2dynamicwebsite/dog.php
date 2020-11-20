@@ -16,7 +16,7 @@
 </div>
 <div id = "nav">
     <ul>
-        <li><a href="index.html"class="active" >Dog Product</a></li>
+        <li><a href="dog.php"class="active" >Dog Product</a></li>
         <li><a href="food.php" >Cat Product</a></li>
         <li><a href="milk.php">Grooming Product</a></li>
         <li><a href="aboutus.php">About Us</a></li>
