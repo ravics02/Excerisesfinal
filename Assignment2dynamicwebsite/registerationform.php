@@ -6,7 +6,7 @@
     <title>Register Form</title>
 </head>
 <body>
-
+<td id="middlecontent">
 <h3> Please enter your details below for registeration</h3>
 <form method="post" action="recieveform.php">
     <input name="firstname" type="text" placeholder="First Name">
