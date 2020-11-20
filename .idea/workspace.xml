@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4aceb26-9adf-4be1-a71f-3875423e40b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2dynamicwebsite/registerationform.php" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2dynamicwebsite/registerationform.php" afterDir="false" />
-    </list>
+    <list default="true" id="e4aceb26-9adf-4be1-a71f-3875423e40b7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +90,7 @@
       <workItem from="1605123664273" duration="18684000" />
       <workItem from="1605555293723" duration="8473000" />
       <workItem from="1605641688605" duration="424000" />
-      <workItem from="1605642457302" duration="35179000" />
+      <workItem from="1605642457302" duration="35497000" />
     </task>
     <servers />
   </component>
