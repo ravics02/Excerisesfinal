@@ -4,8 +4,7 @@ if (isset($_POST["username"]) && isset($_POST["password"])) {
     $password = $_POST["password"];
 }
 
-echo "Username:" . $username;
-echo "Password:" . $password;
+
 
 //created a database connection
 $server = "lolyz0ok3stvj6f0.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
