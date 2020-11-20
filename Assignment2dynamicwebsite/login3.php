@@ -1,6 +1,5 @@
 <?php
 
-
 if (isset($_POST["username"]) && isset($_POST["password"])) {
     $username = $_POST["username"];
     $password = $_POST["password"];
@@ -39,21 +38,21 @@ if (isset($_POST["username"]) && isset($_POST["password"])) {
         echo "wrong username or password";
 
     }
-    }
+}
 ?>
 <?php
 if (!isset($_SESSION["UserID"])){
 
-?>
+    ?>
 
-<form action="<?php $_SERVER["PHP_SELF"]; ?> " METHOD="post">
-    <input name="username" type="text" placeholder="username">
-    <input name="password" type="text" placeholder="password">
-    <input type="button" value="post">
+    <form action="<?php $_SERVER["PHP_SELF"]; ?> " METHOD="post">
+        <input name="username" type="text" placeholder="username">
+        <input name="password" type="text" placeholder="password">
+        <input type="submit" value="post">
 
-</form>
+    </form>
 
-<?php
+    <?php
 
 } else{
 
@@ -63,6 +62,9 @@ if (!isset($_SESSION["UserID"])){
     <?php
 
 }
+
+
+
 
 
 ?>
