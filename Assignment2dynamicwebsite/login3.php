@@ -2,41 +2,40 @@
 if (isset($_POST["username"]) && isset($_POST["password"])) {
     $username = $_POST["username"];
     $password = $_POST["password"];
-}
-
 
 
 //created a database connection
-$server = "lolyz0ok3stvj6f0.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-$dbusername = "zwtccshi5x8h5pvx";
-$dbpassword = "j6idgpckpu4s42xh";
-$dbname = "j70b2olzmcxne6ap";
-$conn = new mysqli($server, $dbusername, $dbpassword, $dbname);
+    $server = "lolyz0ok3stvj6f0.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+    $dbusername = "zwtccshi5x8h5pvx";
+    $dbpassword = "j6idgpckpu4s42xh";
+    $dbname = "j70b2olzmcxne6ap";
+    $conn = new mysqli($server, $dbusername, $dbpassword, $dbname);
 
-$conn = new mysqli($server, $dbusername, $dbpassword, $dbname);
+    $conn = new mysqli($server, $dbusername, $dbpassword, $dbname);
 
-if ($conn->error) {
-    echo $conn->error;
-} else {
-    echo "Connected";
-}
+    if ($conn->error) {
+        echo $conn->error;
+    } else {
+        echo "Connected";
+    }
 
 //create a query
-$sql = " SELECT * FROM `users` 
-where username = '" . $username . "' and password = '" . $password."'";
+    $sql = " SELECT * FROM `users`
+where username = '" . $username . "' and password = '" . $password . "'";
 
-echo
+    echo
 //run my query
-$result = mysqli_query($conn, $sql);
+    $result = mysqli_query($conn, $sql);
 
 //show result
-if ($result->num_rows == 1) {
-    echo "you have login";
-    while ($row = $result->fetch_assoc()) {
-        echo $row["firstname"];
+    if ($result->num_rows == 1) {
+        echo "you have login";
+        while ($row = $result->fetch_assoc()) {
+            echo $row["firstname"];
+        }
+    } else {
+        echo "wrong username or password";
     }
-} else {
-    echo "wrong username or password";
 }
 
 if (!isset($_SESSION["userID"])) {
@@ -53,4 +52,3 @@ if (!isset($_SESSION["userID"])) {
 
 }
 ?>
-}
