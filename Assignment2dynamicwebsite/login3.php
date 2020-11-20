@@ -49,7 +49,7 @@ if (!isset($_SESSION["UserID"])){
 <form action="<?php $_SERVER["PHP_SELF"]; ?> " METHOD="post">
     <input name="username" type="text" placeholder="username">
     <input name="password" type="text" placeholder="password">
-    <input type="submit" value="post">
+    <input type="button" value="post">
 
 </form>
 
