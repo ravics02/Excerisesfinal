@@ -63,7 +63,7 @@ if (!isset($_SESSION["UserID"])){
 
 }
 
-
+echo "<a href='login3.php'>Home</a>";
 
 
 
