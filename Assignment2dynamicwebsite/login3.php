@@ -57,13 +57,13 @@ if (!isset($_SESSION["UserID"])){
 } else{
 
     ?>
-    <a href="logout.php">Logout"</a>
+    <a href="login3.php">Logout"</a>
 
     <?php
 
 }
 
-echo "<a href='login3.php'>Home</a>";
+
 
 
 
