@@ -1,6 +1,8 @@
 <?php
-$username = $_POST["username"];
-$password = $_POST["password"];
+if (isset($_POST["username"]) && isset($_POST["password"])) {
+    $username = $_POST["username"];
+    $password = $_POST["password"];
+}
 
 echo "Username:" . $username;
 echo "Password:" . $password;
@@ -52,3 +54,4 @@ if (!isset($_SESSION["userID"])) {
 
 }
 ?>
+}
