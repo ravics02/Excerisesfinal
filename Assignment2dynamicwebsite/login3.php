@@ -45,6 +45,7 @@ if (!isset($_SESSION["UserID"])){
 
     ?>
 
+        <h4> Please try entering your login details again</h4>
     <form action="<?php $_SERVER["PHP_SELF"]; ?> " METHOD="post">
         <input name="username" type="text" placeholder="username">
         <input name="password" type="text" placeholder="password">
