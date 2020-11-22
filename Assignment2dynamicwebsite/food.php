@@ -14,6 +14,7 @@
     <img src = "images/cat6.jpg">
     <div id="logo"><span id = "logoText">Pet Food Shop</span></div>
 </div>
+<!-- This is the navigation bar <!-->
 <div id = "nav">
     <ul>
         <li><a href="dog.php" >Dog Product</a></li>
@@ -26,6 +27,8 @@
 <div id = "Main">
     <table id = "maintable">
         <tr>
+
+            <!-- This is the left picture <!-->
             <td id="leftside">
                 <div id ="sideAdv">
                     <img src = "images/cat5.jpg" id="sideImage">
@@ -33,6 +36,8 @@
                     <p id = "text2">HTCS 5606</p>
                 </div>
             </td>
+
+            <!-- This is the product pictures <!-->
             <td id="middlecontent">
 
                 <div class="product">
@@ -74,7 +79,6 @@
 
 </div>
 
-//Food Shop. (n.d.). Retrieved October 23, 2020, from https://moodle.unitec.ac.nz/mod/folder/view.php?id=515159
 
 </body>
 </html>

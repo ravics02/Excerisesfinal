@@ -9,12 +9,14 @@
 
 </head>
 <body>
-
+<!-- This is the header picture <!-->
 <div id = "header">
     <img src = "images/dog1_1.jpg">
     <div id="logo"><span id = "logoText">Pet Food Shop</span></div>
 </div>
 <div id = "nav">
+
+    <!-- This is the navigation bar <!-->
     <ul>
         <li><a href="dog.php"class="active" >Dog Product</a></li>
         <li><a href="food.php" >Cat Product</a></li>
@@ -59,6 +61,7 @@
                 </div>
 
             </td>
+            <!-- This is the shopping cart table <!-->
             <td id="rightside">
                 <p>Cart:</p>
                 <div id="cartDiv"></div>
@@ -78,7 +81,7 @@
     </div>
 
 </div>
-<!--//Food Shop. (n.d.). Retrieved October 23, 2020, from https://moodle.unitec.ac.nz/mod/folder/view.php?id=515159<!-->
+
 
 
 </body>

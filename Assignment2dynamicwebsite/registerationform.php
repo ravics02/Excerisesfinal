@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <title>Register Form</title>
 </head>
+
+<!-- This is the Registeration form <!-->
 <body>
 
 <h3> Please enter your details below for registeration</h3>
